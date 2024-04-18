@@ -15,7 +15,7 @@
 if you would like to execute it via command line interface, use the npx command <b>"npx words-counter-program"</b>.</p>
 
 <h2>Technology used💻</h2>
-<p>With the aid of Node.js,TypeScript  I have created this application. <b> npm packages</b> For the look, I utilized <b>chalk</b>and <b>inquirer</b>to make my application dynamic.</p>
+<p>With the aid of <b>Node.js,TypeScript</b>  I have created this application. <b> "npm packages"</b> For the look, I utilized <b>chalk</b> and <b>inquirer</b> to make my application dynamic.</p>
 
 <h2>license</h2>
 <p>This project is licensed under the <b>ISC</b> License </p>
